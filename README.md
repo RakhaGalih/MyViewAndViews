@@ -1,7 +1,7 @@
 # Style and theme
 ## Rakha Galih Nugraha S
 ### Fungsi style
-- [x] untuk menyderhanakan sebuah gaya dari pallete yang ada
+- [x] untuk menyderhanakan sebuah gaya dari pallete yang ada dengan menambahkan file style.xml yang nantinya dapat dimasukkan ke dalam kode dari pallete tersebut
 
 Tampilan aplikasi 1
 
