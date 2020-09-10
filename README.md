@@ -1,6 +1,7 @@
-# MyViewAndViews
-## view Group
-### Rakha Galih Nugraha S
+# Style and theme
+## Rakha Galih Nugraha S
+### Fungsi style
+[x]- untuk
 
 Tampilan aplikasi 1
 
