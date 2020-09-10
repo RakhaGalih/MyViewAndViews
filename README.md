@@ -5,9 +5,9 @@
 
 Tampilan aplikasi 1
 
-<img width="250" alt="scgv1" src="https://user-images.githubusercontent.com/54633534/91522378-468d9600-e924-11ea-978c-e4dce27b6bd5.png">
+![ss1style](https://user-images.githubusercontent.com/54633534/92702842-de0ad400-f37b-11ea-86f8-728dc4916c6f.jpg)
 
 Tampilan aplikasi 2
 
-<img width="245" alt="scgv2" src="https://user-images.githubusercontent.com/54633534/91522396-51482b00-e924-11ea-98b0-44850f71a1dc.png">
+![ss2style](https://user-images.githubusercontent.com/54633534/92702856-e3681e80-f37b-11ea-8235-4144d3d38bb7.jpg)
 
