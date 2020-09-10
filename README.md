@@ -1,7 +1,7 @@
 # Style and theme
 ## Rakha Galih Nugraha S
 ### Fungsi style
-[x]- untuk
+-[x] untuk menyderhanakan sebuah gaya dari pallete yang ada
 
 Tampilan aplikasi 1
 
